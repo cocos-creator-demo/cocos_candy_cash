@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "cf0f82e1-ab49-453e-8235-06f62b62791c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "stone_heart": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7149d779-d367-46d7-a0fd-5e0545feaeb4",
       "rawTextureUuid": "cf0f82e1-ab49-453e-8235-06f62b62791c",
       "trimType": "auto",

@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "db72ee20-f4ee-4ec1-bd42-67d426fc96f5",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "donut": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e536352c-b67c-4d65-a5b3-7c2cb0b93f53",
       "rawTextureUuid": "db72ee20-f4ee-4ec1-bd42-67d426fc96f5",
       "trimType": "auto",
